@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @nikogamer102
+- 👀 I’m interested in coding and computers
+- 🌱 I’m currently learning discord.js and lua
+- 📫 How to reach me: discord. my tag is nikothegamer#5275
